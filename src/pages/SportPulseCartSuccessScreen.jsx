@@ -33,7 +33,7 @@ export default function () {
 
       <View style={styles.qrContainer}>
         <QRCode
-          value="https://sportsandsocial.com/dc/?utm_source=ppc&keyword=&matchtype=&network=x&devicemodel=&loc_interest_ms=9008177&gad_source=1&gclid=Cj0KCQiA1p28BhCBARIsADP9HrMiZq78ySTe6aGd1VpghTFcFacaJJB8trLdcPGXG7v97a_0ybtPM8IaAsNjEALw_wcB"
+          value="https://www.capitalclub-nn.ru/sport-bar-sovremennoe-ponimanie-i-ego-rol-v-sovremennom-mire/"
           size={Dimensions.get('window').width / 2.5}
           color={COLORS.main}
         />
